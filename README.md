@@ -1,7 +1,7 @@
 # Credit Risk Prediction to Improve Loan Approval
 
 ## Project Overview
-This project (March 2024) aims to enhance loan approval processes by developing a machine learning model to predict credit risk. The model identifies key predictors of loan default, enabling banks to make informed lending decisions with improved accuracy and efficiency.
+This project (May’25-Jun’25) aims to enhance loan approval processes by developing a machine learning model to predict credit risk. The model identifies key predictors of loan default, enabling banks to make informed lending decisions with improved accuracy and efficiency.
 
 ## Objectives
 - Select relevant features to predict credit risk while eliminating multicollinearity.  
